@@ -1,0 +1,48 @@
+.container{
+    display:grid;
+    grid-auto-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    background: #2A7B9B;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    height: 100vh;
+
+}
+.container div{
+
+}
+#background {
+    }
+
+#heroDiv{
+    padding-top: 45%;
+}
+
+#hero{
+    font-size: 1000%;
+}
+
+#enemyDiv{
+
+    padding-top: 45%;
+}
+#enemy{
+    font-size: 1000%;
+}
+
+
+#game{
+    font-size: 25px;
+    display:grid;
+    grid-auto-rows: 1fr;
+    grid-template-columns: 1fr;
+    font-size: 100%;
+}
+
+.mijnKeuze{
+    padding: 10px 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 5px;
+
+}
