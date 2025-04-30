@@ -32,7 +32,6 @@
 
 
 #game{
-    font-size: 25px;
     display:grid;
     grid-auto-rows: 1fr;
     grid-template-columns: 1fr;
